@@ -1,0 +1,5 @@
+pandas
+osmnx
+networkx
+openpyxl
+numpy
