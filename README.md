@@ -95,6 +95,7 @@ Excel 输出文件
 本项目使用离线 OSM 路网数据，因此需要提前准备 .osm.pbf 文件。
 代码中存在本地绝对路径，上传到 GitHub 后，其他人运行前需要先修改路径。
 若仓库中未上传大体积数据文件，使用者需要自行准备 Excel 和 OSM 数据文件。
+由于使用 .osm.pbf 文件较大，因此运行较慢。
 ## 作者
 
 GitHub: https://github.com/shiyueqinga/Comparison-between-Drones-and-Trucks-in-Cross-Provincial-Delivery
